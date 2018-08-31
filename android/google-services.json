@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1072185464024",
+    "firebase_url": "https://flappy-in-space.firebaseio.com",
+    "project_id": "flappy-in-space",
+    "storage_bucket": "flappy-in-space.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072185464024:android:eea1b0c34d01293d",
+        "android_client_info": {
+          "package_name": "com.filipstrelec.flappyinspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072185464024-fspq1mr0lo44ok91476u2lqn8ppj12uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.filipstrelec.flappyinspace",
+            "certificate_hash": "0d8eb20df73d165d70e9b293bd52e5ea76144b93"
+          }
+        },
+        {
+          "client_id": "1072185464024-0mgrusvqqqntdsahlnagefifhmrs7dkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnyYeEFkJd5ZQwFK1v04j6QD6HFBvOS8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072185464024-0mgrusvqqqntdsahlnagefifhmrs7dkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
